@@ -1,4 +1,4 @@
-Dice_and_Cards
+Dice and Cards
 ==============
 
 The Dice and Cards JS Scripts
